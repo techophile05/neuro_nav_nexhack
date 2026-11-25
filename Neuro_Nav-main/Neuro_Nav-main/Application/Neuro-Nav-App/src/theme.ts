@@ -1,0 +1,16 @@
+export const colors = {
+  ink950: '#04060a',
+  ink900: '#070b12',
+  slate100: '#f1f5f9',
+  slate300: '#cbd5e1',
+  slate400: '#94a3b8',
+  cyan200: '#a5f3fc',
+  cyan400: '#22d3ee',
+  emerald200: '#a7f3d0',
+  emerald400: '#34d399',
+  rose200: '#fecdd3',
+  rose400: '#fb7185',
+  indigo400: '#818cf8',
+  border: 'rgba(255,255,255,0.12)',
+  glass: 'rgba(255,255,255,0.06)',
+};
